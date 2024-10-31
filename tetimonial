@@ -1,0 +1,18 @@
+ <!-- Testimonials Section -->
+<section id="testimonials" class="testimonials">
+    <h2>What People Say</h2>
+    <div class="testimonial-container">
+        <div class="testimonial">
+            <p>"Great experience working with you! Your attention to detail and commitment to deadlines made a significant impact."</p>
+            <h4>- Burton Makelo, Millenium Solutions E.A</h4>
+        </div>
+        <div class="testimonial">
+            <p>"Your technical skills and ability to solve complex problems were invaluable. Highly recommended!"</p>
+            <h4>- Brian Kerio, Software Developer</h4>
+        </div>
+        <div class="testimonial">
+            <p>"A talented and dedicated developer. The project was delivered on time and exceeded our expectations!"</p>
+            <h4>- Kook, STEM Impact CENTRE</h4>
+        </div>
+    </div>
+</section>
