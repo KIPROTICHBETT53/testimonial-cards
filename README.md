@@ -1,2 +1,4 @@
 https://roadmap.sh/projects/testimonial-cards
-testimonial
+# This is a project based repo for ```roadmap.sh```
+Its based on creating Testimonial card for a websites.<br>
+Head over to roadmap.sh and find more project based learning roadmaps
